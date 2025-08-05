@@ -14,8 +14,8 @@ return [
     */
 
     'failed' => 'De ingevoerde gegevens kloppen niet.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'password' => 'Het ingegeven wachtwoord is incorrect.',
+    'throttle' => 'Te veel login pogingen. Probeer het opnieuw in :seconds seconden.',
 
     'Create an account' => 'Account aanmaken',
 
