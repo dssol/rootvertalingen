@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Validation Language Lines - Nederlands
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by
@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'accepted' => 'The :attribute field must be accepted.',
+    'accepted' => 'Het :attribute veld moet worden geaccepteerd.',
     'accepted_if' => 'The :attribute field must be accepted when :other is :value.',
     'active_url' => 'The :attribute field must be a valid URL.',
     'after' => 'The :attribute field must be a date after :date.',

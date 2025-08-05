@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Pagination Language Lines
+    | Pagination Language Lines - Nederlands
     |--------------------------------------------------------------------------
     |
     | The following language lines are used by the paginator library to build
@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'previous' => '&laquo; Previous',
-    'next' => 'Next &raquo;',
+    'previous' => '&laquo; Vorige',
+    'next' => 'Volgende &raquo;',
 
     'Showing' => 'Toon',
     'to' => 'tot',
